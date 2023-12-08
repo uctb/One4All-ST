@@ -1,0 +1,8 @@
+task_1:
+  - 'regular/regular_census_NYC.pkl'
+task_2:
+  - 'regular/regular_road_segment_full_NYC.pkl'
+task_3:
+  - 'regular/regular_road_segment_second_NYC.pkl'
+task_4:
+  - 'regular/regular_road_segment_primary_NYC.pkl'
