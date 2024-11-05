@@ -1,4 +1,7 @@
 # One4All-ST
+
+This is the official code base of paper 'A Unified Model for Spatio-Temporal Prediction Queries with Arbitrary Modifiable Areal Units' (accepted by ICDE 2024).
+
 ## Introduction
 **One4All-ST** is a framework that can conduct spatio-temporal prediction for arbitrary modifiable units using only one model.
 
@@ -31,4 +34,14 @@ python regular.py
 python exp.py
 # obtain optimal combinations and test results (more options can be refered to the test_query.py)
 python test_query.py
+```
+## Citation
+If One4All-ST is helpful for your work, please cite and star our project.
+```latex
+@article{chen2024unified,
+  title={A Unified Model for Spatio-Temporal Prediction Queries with Arbitrary Modifiable Areal Units},
+  author={Chen, Liyue and Fang, Jiangyi and Liu, Tengfei and Cao, Shaosheng and Wang, Leye},
+  journal={arXiv preprint arXiv:2403.07022},
+  year={2024}
+}
 ```
